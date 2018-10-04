@@ -1,0 +1,10 @@
+Lievinwurth
+ 2.5km x 1.5km = 3.75km^2
+
+Other: (1)
+ Bridge = 1
+Educational: (2)
+ Elementary School = 1
+ High School = 1
+Commercial: (2)
+ Supermarket = 2

@@ -1,0 +1,71 @@
+Cities (55):
+ Small (?):
+  Lievinwurth (3.75 km^2)
+
+Buildings:
+ Argiculture:
+  Barn
+  Farmhouse
+  Silo
+  Windmill
+  Greenhouse
+ Commercial:
+  Mechanic
+  Bakery
+  Bank
+  Library
+  Convenience Stores
+  Pharmacy
+  Shopping Mall
+  Supermarket
+  Fast Food/Restaurant
+  Hotel
+  Offices
+ Residential:
+  Apartment Block
+  Houses
+  Townhouse
+ Medical:
+  Hospital
+  Clinic
+ Educational:
+  Elementray school
+  High School
+  University
+ Civic:
+  Arenas
+  Museum
+  Theater
+ Religion:
+  Church
+  Mosque
+  Synagogue
+ Government:
+  City Hall
+  Courthouse
+  Fire Station
+  Police Station
+  Post Office
+  Prison
+ Industrial:
+  Factory
+  Warehouse
+ Military:
+  Arsenal
+  Barracks
+  Bunker
+ Transport:
+  Airport
+  Bus Station
+  Subway
+  Railway Station
+  Lighthouse
+  Shipping Yard
+ Other:
+  Bridge
+  
+  
+  
+  
+  
+	
